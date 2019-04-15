@@ -1,0 +1,1 @@
+sqlplus usuario/senha@string @cep_2009_pg_ora.sql -o log.log
