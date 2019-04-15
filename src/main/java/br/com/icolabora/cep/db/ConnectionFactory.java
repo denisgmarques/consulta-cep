@@ -8,7 +8,7 @@ public class ConnectionFactory {
 	String driverClassName = "com.mysql.jdbc.Driver";
 	String connectionUrl = "jdbc:mysql://localhost:3306/consulta_cep";
 	String dbUser = "root";
-	String dbPwd = "";
+	String dbPwd = "root";
 
 	private static ConnectionFactory connectionFactory = null;
 
