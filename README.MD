@@ -25,7 +25,7 @@ In a root project folder
 ```
 mvn clean install
 ```
-War file will generate on ```target``` folder.
+War file will be generated on ```target``` folder.
 
 # Deploying application
 
