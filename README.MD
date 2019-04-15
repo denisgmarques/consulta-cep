@@ -21,7 +21,7 @@ You can do that on ConnectionFactory.java file:
 
 # Generating War File
 
-On a root project folder
+In a root project folder
 ```
 mvn clean install
 ```
